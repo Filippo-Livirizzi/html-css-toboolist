@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;    
+}
+body
+{
+    background-color: aliceblue;
+}
+
+header
+{
+    background-color: rgb(255, 255, 255);
+}
+.logo
+{
+    height: 65px;
+    padding: 10px;
+}
+.content
+{
+    padding: 60px;
+}
+.b-1 {
+    margin-left: 25px;
+    background-color: rgb(111, 180, 245);
+    border-radius: 7px;
+}
+.b-2
+{
+    border-radius: 7px;
+}
+.button-write
+{
+    padding: 6px;
+}
+.button-write2
+{
+    padding: 6px;
+    background-color: white;
+}
+
+.container-button
+{
+    background-color: white;
+    padding: 15px;
+}
+.card{
+    background-color: white;
+    margin-top: 3px;
+}
+.task
+{
+    padding-left: 49px;
+    padding-top: 30px;
+    height: auto; 
+    font-size: 30px;
+}
