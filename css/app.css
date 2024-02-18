@@ -41,22 +41,101 @@ header
     background-color: white;
 }
 
-.container-button
+.container
 {
     background-color: white;
     padding: 15px;
-    max-width: 770px;
-    margin: 0 auto;
-}
-.container-card{
-    background-color: white;
-    margin-top: 3px;
     max-width: 800px;
     margin: 0 auto;
 }
-.task
-{
+.card{
+    background-color: white;
+    margin-top: 3px;
+    max-width: 800px;
+    margin-top: 2px;
+    margin: 0 auto;
     padding-left: 40px;
     padding-top: 30px;
-    font-size: 30px;
+}
+p
+{
+    margin: 15px;
+}
+.editorial
+{
+    background-color: #1E90FF;
+    border-radius: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 5px;
+    color:white;
+    max-width: 0 auto;
+    border: 0;
+}
+.goals
+{
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 5px;
+    color:white;
+    max-width: 0 auto;
+    border: 0;
+}
+.recruiting
+{
+    background-color: green;
+    border-radius: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 5px;
+    color:white;
+    max-width: 0 auto;
+    border: 0;
+}
+.mobile
+{
+    background-color: orange;
+    border-radius: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 5px;
+    color:white;
+    max-width: 0 auto;
+    border: 0;
+}
+.site
+{
+    background-color: rgb(218, 54, 177);
+    border-radius: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 5px;
+    color:white;
+    max-width: 0 auto;
+    border: 0;
+}
+.sales
+{
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 5px;
+    color:white;
+    max-width: 0 auto;
+    border: 0;
 }
